@@ -1,2 +1,3 @@
 # Git
-This is all about git
+Play ground for git
+
